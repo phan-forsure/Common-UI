@@ -1,10 +1,11 @@
 import React from 'react'
-import './style/output.css'
+import './App.css'
+
 function App() {
 
   return (
-    <div className='app'>
-      <h1>React + Vite + Typescript</h1>
+    <div className="app">
+      <h1>Init</h1>
     </div>
   )
 }
